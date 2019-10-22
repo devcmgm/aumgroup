@@ -1,0 +1,41 @@
+now
+cd desktop
+ls
+dir
+ls
+pwd
+mkdir aum1
+cd aum1
+vi index.html
+now init vanilla aumgroup
+ls
+dir
+pwd
+cd aumgroup
+ls
+dir
+now 
+git remote add origin https://github.com/devcmgm/aumgroup.git
+git push -u origin masterecho "# aumgroup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/devcmgm/aumgroup.git
+echo "# aumgroup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/devcmgm/aumgroup.git
+git add README.md
+git commit -m "first commit"
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/devcmgm/aumgroup.git
+git push
+git push --set-upstream origin master
+git config credential.username "devcmontgomery@gmail.com"
+git push --set-upstream origin master
+git config credential.username "devcmontgomery@gmail.com"
+git remote add origin https://github.com/devcmgm/aumgroup.git
+git push
+doskey /history > didthis.txt
